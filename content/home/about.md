@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2016-04-20T00:00:00
+date = "2016-04-20T00:00:00"
 
 # Order that this section will appear in.
 weight = 5
@@ -11,30 +11,25 @@ weight = 5
 [interests]
   interests = [
     "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Computer Vision",
+    "Natural Language Processing"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
-
+  course = "B.Tech in Electrical Engineering minor in AI"
+  institution = "IIT Kanpur"
+  year = 2018
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "M.S. in ECE"
+  institution = "NYU"
+  year = 2020
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a Master's Student at NYU and have recieved the Samuel Morse Fellowship. I have completed my undergraduate from [IIT Kanpur](http://iitk.ac.in) majoring in Electrical Engineering. I am currently looking for research opportunities in NYU. I am broadly interested in deep learning and its application in Computer Vision and NLP and the interplay between the two. During my time as an undergraduate I have worked with [Prof. Yao Wang](http://engineering.nyu.edu/people/yao-wang) from [NYU](http://nyu.edu) on a couple of projects and had the fortune of visiting New York to work with her. During my junior year, I enjoyed a stirring couple of months at [Artifacia](http://artifacia.com), an AI startup dealing with visual commerce. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Apart from academics, I am interested in playing tennis, writing poetry and painting. I have been part of a couple of interesting startup projects [LucidLaw](http://lucidlaw.in) and [MeetApp](https://fb.com/realmeetapp) under [Epoch Solutions](https://epoch.solutions) an initial stage startup cofounded by me and a couple of undergrads unlike myself. [RESUME](https://drive.google.com/file/d/1ydotMWdv0nm_wOXLgu7pLF5_w07FZ-T9/view?usp=sharing)
+
