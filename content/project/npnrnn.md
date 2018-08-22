@@ -37,4 +37,4 @@ Wang et al(2016) proposed one such application named Natural Parameters Networks
 
 Our project was mainly aimed at implementing the Natural Parameter Networks for feed forward neural networks, and extending this framework for Recurrent Neural Networks.  The authors had not open sourced the code for Natural Parameter Networks.  This, we have implemented the Gaussian and Gamma NPN using tensorflow in python.  We also completed the mathematical details of NPN, as well as other model involving bayesian analysis in neural networks, like Probabilistic Back Propagation, Dropout Neural Networks, Bayesian Dark Knowledge, and Variational RNN.
 
-*[Read More](http://home.iitk.ac.in/~kanishkg/BML_Final_Report.pdf)*
+*[Read More]*(https://drive.google.com/file/d/1_iS08jjVnoN_YbTqoBo_d61mfW0XYicE/view)

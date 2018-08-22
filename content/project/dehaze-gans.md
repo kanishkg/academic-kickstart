@@ -34,4 +34,4 @@ severely impacts feature retrieval based tasks.  Degraded photos often lack visu
 
 We explore this problem from the perspective of Generative Adversarial Networks for this first time and experiment with different formulations of loss functions and stacking GANs.
 
-*[Read More](http://home.iitk.ac.in/~kanishkg/Conditional_GANs_for_Single_Image_Dehazing.pdf)*
+*[Read More](https://drive.google.com/file/d/1iILrDNf0pplp0svB0VGZcEYX8uqtmcGD/viewi)
