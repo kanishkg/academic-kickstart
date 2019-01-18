@@ -15,6 +15,7 @@ weight = 60
 
 +++
 
-- Won the Healthcare Makeathon hosted by NYU eLab with an idea that would help the recovery of post surgery patients.
 - Joined the [Human and Machine Learning Lab](https://cims.nyu.edu/~brenden/lab-website/index.html) at NYU (Part of CILVR).
 - Attended the [Prairie AI Summer School (PAISS)](https://project.inria.fr/paiss/) in INRIA.
+- Won the Healthcare Makeathon hosted by NYU eLab with an idea that would help the recovery of post surgery patients.
+- Was part of the J-Term Startup Sprint 2019 Cohort
