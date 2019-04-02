@@ -16,4 +16,4 @@ weight = 60
 +++
 
 - I have been an instructor at the Machine Learning Summer School (May 2018) at IIT Kanpur which was a 10 days school covering the basic aspects of machine learning and deep learning. The course website is available [here] (https://kanishkg.github.io/mlss.htm).
-- I have been an Academic Mentor for the course Fundamentals of Computing for the academic year (2015-16) where I mentored Freshman in an introductory programming course.
+- I have been an Academic Mentor for the course Fundamentals of Computing for the academic year (2015-16) where I mentored Freshmen in an introductory programming course.
