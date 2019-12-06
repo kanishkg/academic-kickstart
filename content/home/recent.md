@@ -15,6 +15,8 @@ weight = 60
 
 +++
 
+- Our work on mutual exclsuivity was covered by the [New Scientist](https://www.newscientist.com/article/2208277-teaching-ais-to-make-mistakes-like-kids-would-help-them-learn-faster/)
+- Preprint for our Mutual EXclusivity work is out! [arxiv](https://arxiv.org/abs/1906.10197)
 - Joined the [Human and Machine Learning Lab](https://cims.nyu.edu/~brenden/lab-website/index.html) at NYU (Part of CILVR).
 - Attended the [Prairie AI Summer School (PAISS)](https://project.inria.fr/paiss/) in INRIA.
 - Won the Healthcare Makeathon hosted by NYU eLab with an idea that would help the recovery of post surgery patients.
